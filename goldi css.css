@@ -1,0 +1,28 @@
+h1 { text-align: center;
+    font-size: 42px;
+    text-decoration: underline ;
+	width: 200px;
+	border: 10px solid black;
+	padding: 50px;
+	margin: auto;
+	margin-top: 380px;
+	margin-bottom: ;
+	background-color: white;
+}
+body {
+	background-image: url('golden-retriever-i94891.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;  
+	background-size: cover;
+}
+
+p  { text-align: center;
+    font-size: 22px;
+	width: 400px;
+	border: 10px solid black;
+	padding: 50px;
+	margin: auto;
+	margin-top: 180px;
+	margin-bottom:;
+	background-color: rgb(218,165,32);
+}
